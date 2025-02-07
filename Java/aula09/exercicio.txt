@@ -1,0 +1,18 @@
+(1) Uma casa está para uma planta arquitetonica
+assim como um objeto está para:
+    > uma classe OK
+(2)  A programação orientada a objetos se preocupa
+em produzir software que tenha as seguintes caract.
+    > COMER NADA - NAtural, COnfiavel, Reutilizavel, 
+    Manutenivel, Extensivel, Oportuno.
+(3) INCORRETA: Uma classe é instância de um objeto.
+    > O correto é: um OBJETO é uma instância de uma
+    CLASSE.
+(4) Atributo - característica de uma classe que é visível
+    Classe - define os atributos e comportamentos comuns
+    Comportamento - ação executada por um objeto
+    Domínio - espaço onde o problema reside
+    Objeto - construção de software que encapsula estado e comportamento
+    (B) 3, 2, 1, 5, 4   OK
+(6)
+

@@ -1,0 +1,25 @@
+Métodos Especiais
+> Métodos Acessores - Getters (GET)
+    Método que vc pega alguma informação/acessa algo.
+    Método acessor.
+    EX: quero saber o saldo da minha conta -> getSaldo
+    Dificulta o acesso direto ao atributo, garantindo uma segurança adicional.
+> Métodos Modificadores - Setters (SET)
+    Precisa de um parametro para poder funcionar
+    > Necessita de 1 get e 1 set para cada atributo da nossa classe
+        EX: |-------------|
+            |Caneta       |
+            |-------------|
+            | +modelo     |
+            | -ponta      |
+            |-------------|
+            | +getModelo()|
+            |+setModelo(m)|
+            | +getPonta() |
+            | +setPonta(p)|
+            |-------------|
+> Método Construtor - Construct
+    Executar uma tarefa sem que o usuário peça, ou seja, sem interferência de ngm
+    EX: Na classe Caneta
+        Metodo construtor(c){ tampar(); cor="Azul";}
+            > Quando o objeto é criado, ele recebe essas configurações automaticamente
